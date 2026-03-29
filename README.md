@@ -7,7 +7,7 @@ Developed an interactive Power BI dashboard to analyze restaurant data across mu
 Key Highlights :
 Built a data model and created a dynamic calendar table with year, month, quarter, and financial period analysis
 Standardized Average Cost for Two into USD for consistent cross-country comparison
-Created price buckets to evaluate restaurant segmentation based on affordability
+Analyzed table booking and online delivery adoption rates
 
 Insights :
 Identified high concentration of restaurants in key cities and regions and Observed distribution patterns based on ratings and pricing categories
